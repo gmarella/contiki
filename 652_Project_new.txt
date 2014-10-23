@@ -1,0 +1,56 @@
+
+MQTT vs CoAP vs sMAP
+
+**********************
+Project Description
+**********************
+
+Built on top of network stack
+Dec 8 - Final Report Due (6-8 page research paper)
+Dec 3 - Final Presentation
+Nov 26  -  One-One discussions
+Nov 19 - Midterm presentation
+Nov 12 - One-one discussions
+Nov 5 - One-One discussion
+Oct 29 - Written  (1 page)
+No class next week
+
+************************
+Expectations:
+************************
+1. Significant new software development
+2. Some value addition
+3. Can modify existing code
+4. Protocol Design Development/ Enhancement
+5. Some novelty
+6. Improve existing literature
+7. Any layer (Link layer, Network layer
+Transport, Application layer)
+8. Evaluation and Results (Simulation in Cooja)
+Preferably on real motes
+Test bed: Tmote hardware
+
+*************************
+Sample Ideas
+*************************
+1. Multicast Routing - CTP, BCP, RPL 
+ - Start with an existing piece of code to implement this functionality
+2. Link Layer
+ - Adaptive CSMA mechanism
+3. Transport Layer
+ - Enhancement to TCP implemented in Contiki
+Protocols suited for mobile environments
+ - Mobile Ad-hoc networks
+ - Sparse intermittently connected nodes
+Application layer protocols for mobile environment 
+ - Store and Forward/ Publish - Subscribe network
+ - Data centric networking
+   COntent more important than address
+   Efficient dessimination of information
+Low power primitives
+Enabling options for higher level layers by using functionalities provided by lower layers
+Balance recent and old papers -2002 onwards
+Google scholar, ACM, IEEExplore
+Start reading Abstracts - Narrow down to 10 papers
+Basis of one page proposal
+Subjet: EE652 Project Proposal
