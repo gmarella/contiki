@@ -1,0 +1,6 @@
+[23:43:57 - main] [GUI.java:3162] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[23:43:57 - AWT-EventQueue-0] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
+[23:43:57 - AWT-EventQueue-0] [GUI.java:2876] [INFO] - External tools user settings: /root/.cooja.user.properties
+[23:44:03 - AWT-EventQueue-0] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[23:44:17 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make clean TARGET=sky 
+[23:44:19 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-sender.sky TARGET=sky 
